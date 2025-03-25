@@ -48,3 +48,4 @@ Hate My Phone is an interactive web application that allows cellphone users to h
 
 #### ❤️ Reason for Choosing This Idea:
 Smartphone users all over the globe raise grievances regarding certain features within their phones. Hate My Phone exploits that universal notion of shared subpar experiences, converting daily hassles into an opportunity for community belly laughs. Users rate and discuss the issues online and are presented with a new lens—finely evidenced against an array of full-stack concepts as applied in an actual project.
+
